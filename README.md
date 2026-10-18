@@ -1,7 +1,7 @@
 # Ray Tracer
 Ray Tracer — 3D Programming Assignment
 
-A simple ray tracer implemented in C++ as part of a university 3D programming assignment.
+A simple ray tracer implemented in C++ as part of a university 3D programming assignment in 2019.
 
 The project focuses on the fundamentals of ray tracing, including custom 3D vector mathematics, ray-object intersection tests, and image generation. It renders a scene using orthographic projection and supports four geometric primitives: spheres, planes, oriented bounding boxes (OBBs), and triangles.
 Features
